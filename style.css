@@ -4,7 +4,7 @@
 body{
     margin: 10px 15px;
     padding: 0px;
-
+}
 h2{
     font-family: "Imperial Script", serif;
      padding: 10px 10px ;
@@ -21,4 +21,13 @@ h4 {
 padding:10px 10px;
 color: rgb(178, 32, 105);
 }
+.receita_sushi-s{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px 15px;
+    color: rgb(38, 128, 131);
+}
+.receitas{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px 15px;
+    color: skyblue;
 }
